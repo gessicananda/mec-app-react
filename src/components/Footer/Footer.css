@@ -1,0 +1,13 @@
+footer{
+    clear: both;
+    background-color: black;
+    color: white;
+    top: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+.principal a{
+    text-decoration: none;
+    color: white;
+}
